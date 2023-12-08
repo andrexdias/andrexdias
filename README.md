@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**andrexdias/andrexdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o André Dias! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Um estudante de informática Web, Movél e na Núvem na Universidade Beira Interior.
+
+## 🛠 Habilidades
+Python; 
+Linux; 
+HTML;
+CSS; 
+WordPress; 
+PHP; 
+Design ( Adobe Photoshop; Adobe Ilustrator; Figma.)
+
