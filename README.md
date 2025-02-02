@@ -1,5 +1,5 @@
 
-# Olá, eu sou o André Dias! 👋
+# Olá, eu sou Andy Oliveira! 👋
 
 
 ## 🚀 Sobre mim
